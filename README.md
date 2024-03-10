@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FPGA and Linux kernel**
 
-- 📝 I regularly write articles on [My Wordpress Site](https://madschinkel.me/)
+- 📝 I regularly write articles on [My GitHub Pages](https://madschinkel.me/)
 
 - 💬 Ask me about **ARM and Computer Network**
 
